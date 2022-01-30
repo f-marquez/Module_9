@@ -27,3 +27,11 @@ This new assignment consists of two technical analysis deliverables and a writte
 - The temperatures are added to a list. 
 - The list of temperatures is converted to a Pandas DataFrame. 
 - Summary statistics are generated for the DataFrame.
+
+## Summary
+### Deliverable 3: A written report
+Overall we saw similar weather in both June and December, although December displays a wider range of weather scenarios. Additional queries we could have run: 
+  - ***Precipitation*** -to determine wich month is historically more rain prone <br>
+  - ***Weather Station***- to compare conditions at different weather stations. 
+
+
